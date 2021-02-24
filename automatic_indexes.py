@@ -41,3 +41,12 @@ for header_row2 in csv_reader2:
         dates_2.append(date)
         highs_2.append(high)
         lows_2.append(low)
+
+fig, ax = plt.subplots(2, 1)
+
+fig.suptitle(
+    "Temperature comparison between SITKA AIRPORT, AK US and DEATH VALLEY, CA US",
+    fontsize=16,
+)
+fig.autofmt_xdate()
+plt.show()
