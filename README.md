@@ -8,8 +8,8 @@ A set of python scripts were created using matplotlib and csv parsing to visuali
 
 Scripts were created in the following order:
 
-sitka_1.py
-sitka_2.py
-sitka_3.py
-death_valley.py
+sitka_1.py,
+sitka_2.py,
+sitka_3.py,
+death_valley.py,
 automatic_indices.py
